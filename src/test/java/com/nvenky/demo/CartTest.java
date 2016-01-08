@@ -1,4 +1,4 @@
-package au.com.iag.demo;
+package com.nvenky.demo;
 
 import org.junit.Before;
 import org.junit.Test;

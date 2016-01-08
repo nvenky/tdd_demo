@@ -1,4 +1,4 @@
-package au.com.iag.demo;
+package com.nvenky.demo;
 
 public class InvalidPromoCodeException extends RuntimeException {
     public InvalidPromoCodeException(String message) {

@@ -1,4 +1,4 @@
-package au.com.iag.demo;
+package com.nvenky.demo;
 
 public interface PromotionService {
     Promotion getPromotion(String promotionCode);
